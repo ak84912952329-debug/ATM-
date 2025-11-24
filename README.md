@@ -109,3 +109,6 @@ If you want, I can generate the improved code.
 
 <img width="831" height="569" alt="Screenshot 2025-11-24 102603" src="https://github.com/user-attachments/assets/55e9afc1-7775-4305-b5f3-efb4e80fd4e0" />
 
+<img width="859" height="804" alt="Screenshot 2025-11-24 104446" src="https://github.com/user-attachments/assets/b049b5ad-d91e-4c67-8f69-a7c7f44c8039" />
+
+
