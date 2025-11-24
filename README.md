@@ -102,6 +102,10 @@ Here are optional features you can add:
 
 ✔ More robust UPI format validation
 
+
 ✔ Encrypted PIN storage
 
 If you want, I can generate the improved code.
+
+<img width="831" height="569" alt="Screenshot 2025-11-24 102603" src="https://github.com/user-attachments/assets/55e9afc1-7775-4305-b5f3-efb4e80fd4e0" />
+
